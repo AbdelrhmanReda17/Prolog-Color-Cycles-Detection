@@ -1,4 +1,4 @@
-# Color Cycle Solver using Prolog
+# Color Cycle Detection using Prolog
 
 ## Introduction
 This Prolog program aims to solve the color cycle puzzle. Given a board consisting of cells with colors (Red, Yellow, or Blue), the program searches for cycles of at least 4 cells with the same color that are adjacent to each other.
