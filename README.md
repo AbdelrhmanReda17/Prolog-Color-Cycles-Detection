@@ -6,7 +6,7 @@ Prolog interpreter (e.g., SWI-Prolog)
 
 ### Usage
 1. Clone the repository to your local machine:
-  ```git clone https://github.com/your-username/color-cycle-solver.git```
+  ```git clone https://github.com/AbdelrhmanReda17/color-cycle-solver.git```
 2. Navigate to the project directory:
 ```cd prolog-color-cycles-detection```
 3. Run the Prolog program:
